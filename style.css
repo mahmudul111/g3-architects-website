@@ -118,7 +118,11 @@ margin-top: 24px;
 }
 /* main features section */
 
-
+.feature-container{
+    display: flex;
+    gap: 100px;
+    margin-top: 130px;
+}
 /* features facts section */
 .facts-title{
     color:  #131313;
